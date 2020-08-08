@@ -41,5 +41,13 @@
     "law"
   ],
   "author": "MathsAndPhysics",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maths-And-Physics/first-digit-law.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Maths-And-Physics/first-digit-law/issues"
+  },
+  "homepage": "https://github.com/Maths-And-Physics/first-digit-law#readme"
 }

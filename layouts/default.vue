@@ -9,11 +9,11 @@
 
     <v-footer>
       <a
-        href="https://github.com/maths-and-physics/firs-digit-law"
+        href="https://github.com/Maths-And-Physics/first-digit-law"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Source code
+        https://github.com/Maths-And-Physics/first-digit-law
       </a>
     </v-footer>
   </v-app>
